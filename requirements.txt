@@ -112,7 +112,7 @@ simplejson==3.17.0
 six==1.15.0
 sklearn==0.0
 suds-jurko==0.6
-system-service==0.3
+
 tensorboard==1.8.0
 tensorflow @ https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.8.0-py3-none-any.whl
 termcolor==1.1.0
