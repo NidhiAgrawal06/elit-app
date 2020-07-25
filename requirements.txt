@@ -12,7 +12,7 @@ cached-property==1.5.1
 certifi==2020.6.20
 chardet==3.0.4
 checkbox-support==0.22
-click==7.1.2
+
 command-not-found==0.3
 config==0.5.0.post0
 cryptography==1.2.3
@@ -147,3 +147,4 @@ zipp==3.1.0
 
 apturl==0.5.2
 Brlapi==0.6.4
+click==7.1.2
