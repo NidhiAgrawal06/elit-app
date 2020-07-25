@@ -118,7 +118,7 @@ tensorflow @ https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.8.0-
 termcolor==1.1.0
 threadpoolctl==2.1.0
 tqdm==4.47.0
-ubuntu-drivers-common==0.0.0
+
 ufw==0.35
 unattended-upgrades==0.1
 unity-scope-calculator==0.1
