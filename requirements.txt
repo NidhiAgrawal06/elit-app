@@ -19,7 +19,7 @@ config==0.5.0.post0
 cryptography==1.2.3
 cycler==0.10.0
 decorator==4.0.10
-defer==1.0.6
+
 defusedxml==0.6.0
 DendroPy==4.4.0
 docutils==0.12
@@ -149,3 +149,4 @@ zipp==3.1.0
 apturl==0.5.2
 Brlapi==0.6.4
 command-not-found==0.3
+defer==1.0.6
