@@ -7,5 +7,6 @@
 * Used Flask to create the API for trained model and launched it using Heroku web hosting service.
 * Created a simple web-page as UI for testing and making queries to the API. 
 * Built a simple chat app using Android Studio and Firebase Realtime Database to demonstrate the application and use of our API.
+* Built Deep Learning Model for image and video classification as safe or not safe for teenage
 
 API Link: https://pesanticyber.herokuapp.com/?query=" #YOUR COMMENT HERE# "
