@@ -1,3 +1,4 @@
+# Team Elit - Cyber Crime Detection and Reporting
 
 * Team Name : Elit Team code: RK_59
 * Team Leader Name : Mayur Darkunde
@@ -13,7 +14,7 @@
 * Built Deep Learning Model for image and video classification as safe or not safe for teenage
 
 
-*Idea Description*:
+**Idea Description**:
 The solution includes providing a software solution which will have following
 features:
 * User-friendly Graphical User Interface (GUI)
