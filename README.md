@@ -1,11 +1,9 @@
-# Anti-CyberBullying-API-v2
 
-*Team Name*: Elit Team code: RK_59
-*Team Leader Name*: Mayur Darkunde
-*Problem Statement*: Cyber Crime Prevention
-*Organization Name*: Bureau of Police Research and Development
+* Team Name : Elit Team code: RK_59
+* Team Leader Name : Mayur Darkunde
+* Problem Statement: Cyber Crime Prevention
+* Organization Name : Bureau of Police Research and Development
 
-** QUICK OVERVIEW **
 **Created an API used to detect and report abusive contents/comments/posts on various social media and chatting platforms.**
 
 * Built a LSTM and RNN model for text classification as abusive or non-abusive.
