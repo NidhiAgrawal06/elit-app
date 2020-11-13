@@ -9,5 +9,5 @@ sklearn==0.0
 scipy==1.4.1
 tensorboard==2.0.0
 setuptools>=41.0.0
-tensorflow-cpu == 1.4.0
+tensorflow-cpu == 2.3.1
 
